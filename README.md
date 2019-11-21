@@ -1,5 +1,5 @@
-## auto_binary_classifier
-<h2>Please feel free to explore demo.ipynb in regards to examples of the components in this package</h2>
+<h1> auto_binary_classifier</h1>
+<h4>Please feel free to explore demo.ipynb in regards to examples of the components in this package</h4>
 The auto_binary_classifier class is an all encompassing binary classification that allows a user to automatically:
 
 * <b>Preprocess their data</b>
