@@ -48,10 +48,3 @@ The auto_binary_classifier class is an all encompassing binary classification th
 
 * unit tests - due to time constraints, I was mostly using other uci datasets such as their default credit dataset or the titanic dataset to weed out any bugs
 
-
-
-### Short Answered Questions:
-
-1. I would go with a Logistic Regression since banks are highly regulartory, therefore, they need more transparency on what's being fed into the model. It is very easy to interpret the features as far as Logistic regression. Whereas nerual nets leverage more predictive power rather than interpretability 
-
-2. They could look at the weights, whether it be coef or feature_importance via a RF. If the customer got stuck, I would probably just send them the function, feature_selection I used in scale_features.py in but instead of returning a transformed dataframe, I could have it return the top_features list
