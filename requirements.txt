@@ -4,4 +4,4 @@ sklearn==0.21.3
 pandas==0.25.3
 imblearn==0.0
 keras==2.3.1
-numpy==1.17.4
+numpy==1.22.0
